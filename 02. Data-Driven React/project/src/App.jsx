@@ -18,7 +18,6 @@ export default function App() {
             <Header />
             <main className="container">
                 {entryElements}
-                <h1>NO one</h1>
             </main>
         </>
     )
