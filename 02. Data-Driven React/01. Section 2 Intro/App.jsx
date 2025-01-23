@@ -17,6 +17,7 @@ export default function App() {
         <>
             <Header />
             <main className="container">
+                <p>new</p>
                 {entryElements}
             </main>
         </>
